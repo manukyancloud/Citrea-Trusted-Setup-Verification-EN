@@ -2,7 +2,7 @@
 
  Citrea Risc0-to-BitVM Trusted Setup Ceremony has been completed successfully! This is the first trusted setup for ZK proofs on Bitcoin for BitVM. Now Clementine and other BitVM projects can use shared and verifiable cryptographic parameters. A total of 64 people contributed, and all Clementine bridge signers were included. No extra trust assumptions were introduced.
  
- > For more information [click.](https://dev.risczero.com/api/trusted-setup-ceremony)
+> For more information [click](https://dev.risczero.com/api/trusted-setup-ceremony) && [click.](https://docs.citrea.xyz/security/verify-trusted-setup)
 
 The following verification is important to ensure that the setup was not tampered with and that Clementine is using the exactly generated parameters. By recompiling the circuit, downloading the correct Powers of Tau and final zkey, and checking the transcript, you can regenerate the commitments and compare them with the published parameters and verification key hashes.
 
